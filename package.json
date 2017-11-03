@@ -6,12 +6,17 @@
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": ["sequelize","express","mysql"],
+  "keywords": [
+    "sequelize",
+    "express",
+    "mysql"
+  ],
   "author": "Jitendra Kumar",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
     "dotenv": "^4.0.0",
+    "ejs": "^2.5.7",
     "express": "^4.16.2",
     "mysql2": "^1.4.2",
     "sequelize": "^4.20.3"
